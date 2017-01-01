@@ -1,3 +1,7 @@
 This very simple python script is used to create a site map based on links recursively.
 
-More to follow
+it uses `wget`'s spider method to gather header information recurively on a website root.
+
+NOTE: this can be used as a function to be used for exploit of MS15-034. Specifically data gathering from RAM. 
+
+to be updated with a function for gathering RAM data.
